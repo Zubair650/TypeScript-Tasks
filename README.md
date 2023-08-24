@@ -1,7 +1,7 @@
 TypeScript is a syntactic superset of JavaScript which adds static typing.
 
 <table>
-<thead><th>Tasks</th><th></tdh><thead>
+<thead><th>Tasks</th><th>Codes</tdh><thead>
 <tr><td>Task 1 (First Task)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%201"> Click here</a> </td></tr>
 <tr><td>Task 2 (Second Task)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%202"> Click here</a> </td></tr>
 <tr><td>Task 3 (Built-in Types)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%203%20(Built-in%20Types)"> Click here</a> </td></tr>
