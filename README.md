@@ -19,4 +19,7 @@ TypeScript is a syntactic superset of JavaScript which adds static typing.
 <tr><td>Task 15 (Module Export and Import)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2015%20(Module%20Export%20and%20Import)"> Click here</a> </td></tr>
 <tr><td>Task 16 (Function Signature)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2016%20(Function%20Signature)"> Click here</a> </td></tr>
 <tr><td>Task 17 (Interface)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2017%20(Interface)"> Click here</a> </td></tr>
+<tr><td>Task 18 (Class and Interface Integration)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2018%20(Class%20and%20Interface%20Integration)"> Click here</a> </td></tr>
+<tr><td>Task 19 (Narrowing Types)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2019%20(Narrowing%20Types)"> Click here</a> </td></tr>
+<tr><td>Task 20 (Generics)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2020%20(Generics)"> Click here</a> </td></tr>
 </table>
