@@ -22,4 +22,10 @@ TypeScript is a syntactic superset of JavaScript which adds static typing.
 <tr><td>Task 18 (Class and Interface Integration)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2018%20(Class%20and%20Interface%20Integration)"> Click here</a> </td></tr>
 <tr><td>Task 19 (Narrowing Types)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2019%20(Narrowing%20Types)"> Click here</a> </td></tr>
 <tr><td>Task 20 (Generics)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2020%20(Generics)"> Click here</a> </td></tr>
+<tr><td>Task 21 (Spread and Rest)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2021%20(Spread%20and%20Rest)"> Click here</a> </td></tr>
+<tr><td>Task 22 (Type Alias)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2022%20(Type%20Alias)"> Click here</a> </td></tr>
+<tr><td>Task 23 (Destructuring)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2023%20(Destructuring)"> Click here</a> </td></tr>
+<tr><td>Task 24 (Unknown)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2024%20(Unknown)"> Click here</a> </td></tr>
+<tr><td>Task 25 (Ternary, Optional Chaining, Nullish Coalescing)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2025%20(Ternary%2C%20Optional%20Chaining%2C%20Nullish%20Coalescing)"> Click here</a> </td></tr>
+<tr><td>Task 26 (Never)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2026%20(Never)"> Click here</a> </td></tr>
 </table>
