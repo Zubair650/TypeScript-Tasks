@@ -28,4 +28,12 @@ TypeScript is a syntactic superset of JavaScript which adds static typing.
 <tr><td>Task 24 (Unknown)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2024%20(Unknown)"> Click here</a> </td></tr>
 <tr><td>Task 25 (Ternary, Optional Chaining, Nullish Coalescing)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2025%20(Ternary%2C%20Optional%20Chaining%2C%20Nullish%20Coalescing)"> Click here</a> </td></tr>
 <tr><td>Task 26 (Never)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2026%20(Never)"> Click here</a> </td></tr>
+<tr><td>Task 27 (Asynchrounous)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2027%20(Asynchrounous)"> Click here</a> </td></tr>
+<tr><td>Task 28 (Function Generic)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2028%20(Function%20Generic)"> Click here</a> </td></tr>
+<tr><td>Task 29 (Constraints)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2029%20(Constraints)"> Click here</a> </td></tr>
+<tr><td>Task 30 (Interface)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2030%20(Interface)"> Click here</a> </td></tr>
+<tr><td>Task 31 (Interface Generics)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2031%20(Interface%20Generics)"> Click here</a> </td></tr>
+<tr><td>Task 32 (Mapped)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2032%20(Mapped)"> Click here</a> </td></tr>
+<tr><td>Task 33 (Type Assertion)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2033%20(Type%20Assertion)"> Click here</a> </td></tr>
+<tr><td>Task 34 (Utility)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/Task%2034%20(Utility)"> Click here</a> </td></tr>
 </table>
