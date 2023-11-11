@@ -36,4 +36,8 @@ TypeScript is a syntactic superset of JavaScript which adds static typing.
 <tr><td>Task 32 (Mapped)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/All%20TypeScript%20Tasks/Task%2032%20(Mapped)"> Click here</a> </td></tr>
 <tr><td>Task 33 (Type Assertion)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/All%20TypeScript%20Tasks/Task%2033%20(Type%20Assertion)"> Click here</a> </td></tr>
 <tr><td>Task 34 (Utility)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/All%20TypeScript%20Tasks/Task%2034%20(Utility)"> Click here</a> </td></tr>
+<tr><td>Task 35 (Polymorphism)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/All%20TypeScript%20Tasks/Task%2035%20(Polymorphism)"> Click here</a> </td></tr>
+<tr><td>Task 36 (Type Guard)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/All%20TypeScript%20Tasks/Task%2036%20(Type%20Guard)"> Click here</a> </td></tr>
+<tr><td>Task 37 (Getter and Setter)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/All%20TypeScript%20Tasks/Task%2037%20(Getter%20%26%20Setter)"> Click here</a> </td></tr>
+<tr><td>Task 38 (Static)</td> <td> <a href="https://github.com/Zubair650/TypeScript-Tasks/tree/main/All%20TypeScript%20Tasks/Task%2038%20(Static)"> Click here</a> </td></tr>
 </table>
